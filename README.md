@@ -1,1 +1,1 @@
-# learning-tableau
+# exercises
